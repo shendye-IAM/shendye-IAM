@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shendye-IAM
-- I'm a phD candidate at RWTH Aachen, Germany
-- 🌱 I’m currently working on machine learning appliactions in simulation of porous media materials on mulit-scale
+- I have a Masters in Computer Aided Mechanical Engineering form RWTH Aachen, Germany
 - 💞️ I’m looking to collaborate on machine learning, molecular dynamics simulations, visualization tools and game development etc.
 - 📫 How to reach me parag.shendye@rwth-aachen.de
 
